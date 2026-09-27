@@ -1,0 +1,4 @@
+Digital Forensics Lab 01
+Evidence ID: DF-LAB-001
+Purpose: Harmless evidence-integrity training sample
+Status: Original training file
