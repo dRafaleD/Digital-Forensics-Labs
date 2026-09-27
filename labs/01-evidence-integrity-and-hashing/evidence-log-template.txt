@@ -1,0 +1,10 @@
+Evidence ID: DF-LAB-001
+Description: Harmless training text file
+Source: Digital-Forensics-Labs / Day 1
+Original file: evidence/original.txt
+Hash algorithm: SHA-256
+Original SHA-256:
+Working copy:
+Collected/created by:
+Date/time:
+Notes:
