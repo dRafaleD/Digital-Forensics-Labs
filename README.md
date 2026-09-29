@@ -12,6 +12,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 
 - [Day 1 — Digital Evidence, Integrity and Hashing](labs/01-evidence-integrity-and-hashing/notes.md)
 - [Day 2 — Metadata, Timestamps and Timeline Basics](labs/02-metadata-timestamps-and-timeline/notes.md)
+- [Day 3 — Filesystem and Disk Image Fundamentals](labs/03-filesystem-and-disk-image-fundamentals/notes.md)
 
 ## Learning path
 
@@ -47,6 +48,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 
 - [Gün 1 — Dijital Delil, Bütünlük ve Hashing](labs/01-evidence-integrity-and-hashing/notes.tr.md)
 - [Gün 2 — Metadata, Timestamp ve Timeline Temelleri](labs/02-metadata-timestamps-and-timeline/notes.tr.md)
+- [Gün 3 — Filesystem ve Disk Image Temelleri](labs/03-filesystem-and-disk-image-fundamentals/notes.tr.md)
 
 ## Öğrenme yolu
 
