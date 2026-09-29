@@ -1,0 +1,4 @@
+Digital Forensics Lab 02
+Evidence ID: DF-LAB-002
+Purpose: Harmless metadata and timestamp training sample
+Status: Baseline file for controlled timeline exercises
