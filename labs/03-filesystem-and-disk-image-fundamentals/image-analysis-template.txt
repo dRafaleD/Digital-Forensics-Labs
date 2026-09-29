@@ -1,0 +1,25 @@
+Digital Forensics Lab 03 — Image Analysis Notes
+
+Case / Lab ID: DF-LAB-003
+Examiner:
+Date/time:
+Timezone:
+
+Image name: lab-disk.img
+Image size:
+SHA-256 baseline:
+Filesystem type:
+Volume label:
+Filesystem UUID:
+
+Tools used:
+Read-only examination used: Yes / No
+
+Observed root entries:
+Observed inode(s):
+Relevant observations:
+
+Final SHA-256 verification:
+Hash matches baseline: Yes / No
+
+Limitations / notes:
