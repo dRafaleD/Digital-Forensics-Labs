@@ -1,0 +1,24 @@
+Digital Forensics Lab 04 — Carving Notes
+
+Examiner:
+Date/time:
+Timezone:
+
+Source file:
+Source SHA-256:
+
+Candidate type:
+Start offset:
+End offset:
+Carving method:
+Validation tool(s):
+Validation result:
+
+Output filename:
+Output SHA-256:
+
+Filesystem/storage context known:
+Fragmentation limitations:
+Other limitations:
+
+Evidence-supported conclusion:
