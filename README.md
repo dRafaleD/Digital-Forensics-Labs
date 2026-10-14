@@ -15,6 +15,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 3 — Filesystem and Disk Image Fundamentals](labs/03-filesystem-and-disk-image-fundamentals/notes.md)
 - [Day 4 — Deleted Files, Filesystem Metadata and File Carving Foundations](labs/04-deleted-files-and-file-carving/notes.md)
 - [Day 5 — Log Analysis, Timeline Correlation and Event Reconstruction](labs/05-log-analysis-and-timeline-correlation/notes.md)
+- [Day 6 — Incident Triage, Artifact Correlation and Evidence Integrity](labs/06-incident-triage-artifact-correlation-and-integrity/notes.md)
 
 ## Learning path
 
@@ -53,6 +54,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 3 — Filesystem ve Disk Image Temelleri](labs/03-filesystem-and-disk-image-fundamentals/notes.tr.md)
 - [Gün 4 — Silinen Dosyalar, Filesystem Metadata ve File Carving Temelleri](labs/04-deleted-files-and-file-carving/notes.tr.md)
 - [Gün 5 — Log Analizi, Timeline Correlation ve Event Reconstruction](labs/05-log-analysis-and-timeline-correlation/notes.tr.md)
+- [Gün 6 — Incident Triage, Artifact Correlation ve Delil Bütünlüğü](labs/06-incident-triage-artifact-correlation-and-integrity/notes.tr.md)
 
 ## Öğrenme yolu
 
