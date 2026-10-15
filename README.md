@@ -17,6 +17,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 5 — Log Analysis, Timeline Correlation and Event Reconstruction](labs/05-log-analysis-and-timeline-correlation/notes.md)
 - [Day 6 — Incident Triage, Artifact Correlation and Evidence Integrity](labs/06-incident-triage-artifact-correlation-and-integrity/notes.md)
 - [Day 7 — Browser Artifacts, SQLite History and Timeline Reconstruction](labs/07-browser-artifacts-sqlite-and-timeline/notes.md)
+- [Day 8 — Chain of Custody, Evidence Manifests and Hash Verification](labs/08-chain-of-custody-and-evidence-manifests/notes.md)
 
 ## Learning path
 
@@ -57,6 +58,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 5 — Log Analizi, Timeline Correlation ve Event Reconstruction](labs/05-log-analysis-and-timeline-correlation/notes.tr.md)
 - [Gün 6 — Incident Triage, Artifact Correlation ve Delil Bütünlüğü](labs/06-incident-triage-artifact-correlation-and-integrity/notes.tr.md)
 - [Gün 7 — Tarayıcı İzleri, SQLite Geçmişi ve Zaman Çizelgesi](labs/07-browser-artifacts-sqlite-and-timeline/notes.tr.md)
+- [Gün 8 — Muhafaza Zinciri, Delil Manifestleri ve Hash Doğrulama](labs/08-chain-of-custody-and-evidence-manifests/notes.tr.md)
 
 ## Öğrenme yolu
 
