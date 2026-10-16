@@ -19,6 +19,8 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 7 — Browser Artifacts, SQLite History and Timeline Reconstruction](labs/07-browser-artifacts-sqlite-and-timeline/notes.md)
 - [Day 8 — Chain of Custody, Evidence Manifests and Hash Verification](labs/08-chain-of-custody-and-evidence-manifests/notes.md)
 
+- [Day 9 — Linux Authentication Logs and Timeline Reconstruction](labs/09-linux-auth-logs-and-login-timeline/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -59,6 +61,8 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 6 — Incident Triage, Artifact Correlation ve Delil Bütünlüğü](labs/06-incident-triage-artifact-correlation-and-integrity/notes.tr.md)
 - [Gün 7 — Tarayıcı İzleri, SQLite Geçmişi ve Zaman Çizelgesi](labs/07-browser-artifacts-sqlite-and-timeline/notes.tr.md)
 - [Gün 8 — Muhafaza Zinciri, Delil Manifestleri ve Hash Doğrulama](labs/08-chain-of-custody-and-evidence-manifests/notes.tr.md)
+
+- [Gün 9 — Linux Kimlik Doğrulama Kayıtları ve Zaman Çizelgesi](labs/09-linux-auth-logs-and-login-timeline/notes.tr.md)
 
 ## Öğrenme yolu
 
