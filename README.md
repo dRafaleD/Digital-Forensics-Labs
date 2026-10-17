@@ -21,6 +21,8 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 
 - [Day 9 — Linux Authentication Logs and Timeline Reconstruction](labs/09-linux-auth-logs-and-login-timeline/notes.md)
 
+- [Day 10 — Multi-Source Artifact Correlation and Confidence Reporting](labs/10-10-artifact-correlation-and-confidence-reporting/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -63,6 +65,8 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 8 — Muhafaza Zinciri, Delil Manifestleri ve Hash Doğrulama](labs/08-chain-of-custody-and-evidence-manifests/notes.tr.md)
 
 - [Gün 9 — Linux Kimlik Doğrulama Kayıtları ve Zaman Çizelgesi](labs/09-linux-auth-logs-and-login-timeline/notes.tr.md)
+
+- [Gün 10 — Çok Kaynaklı İz Korelasyonu ve Güven Düzeyi Raporlama](labs/10-10-artifact-correlation-and-confidence-reporting/notes.tr.md)
 
 ## Öğrenme yolu
 
