@@ -23,6 +23,8 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 
 - [Day 10 — Multi-Source Artifact Correlation and Confidence Reporting](labs/10-10-artifact-correlation-and-confidence-reporting/notes.md)
 
+- [Day 11 — File Metadata, MAC Times and Timeline Uncertainty](labs/11-file-metadata-mactime-and-timeline-uncertainty/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -67,6 +69,8 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 9 — Linux Kimlik Doğrulama Kayıtları ve Zaman Çizelgesi](labs/09-linux-auth-logs-and-login-timeline/notes.tr.md)
 
 - [Gün 10 — Çok Kaynaklı İz Korelasyonu ve Güven Düzeyi Raporlama](labs/10-10-artifact-correlation-and-confidence-reporting/notes.tr.md)
+
+- [Gün 11 — Dosya Metadata, MAC Zamanları ve Zaman Çizelgesi Belirsizliği](labs/11-file-metadata-mactime-and-timeline-uncertainty/notes.tr.md)
 
 ## Öğrenme yolu
 
