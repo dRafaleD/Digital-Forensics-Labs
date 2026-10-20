@@ -27,6 +27,8 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 
 - [Day 12 — Evidence Manifests, Integrity Checking and Audit Limits](labs/12-evidence-manifest-and-verification/notes.md)
 
+- [Day 13 — Removable Device Artifacts and Timeline Correlation](labs/13-synthetic-usb-artifacts-and-device-timeline/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -75,6 +77,8 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 11 — Dosya Metadata, MAC Zamanları ve Zaman Çizelgesi Belirsizliği](labs/11-file-metadata-mactime-and-timeline-uncertainty/notes.tr.md)
 
 - [Gün 12 — Delil Manifesti, Bütünlük Kontrolü ve Denetim Sınırları](labs/12-evidence-manifest-and-verification/notes.tr.md)
+
+- [Gün 13 — Çıkarılabilir Aygıt İzleri ve Zaman Çizelgesi Korelasyonu](labs/13-synthetic-usb-artifacts-and-device-timeline/notes.tr.md)
 
 ## Öğrenme yolu
 
