@@ -29,6 +29,8 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 
 - [Day 13 — Removable Device Artifacts and Timeline Correlation](labs/13-synthetic-usb-artifacts-and-device-timeline/notes.md)
 
+- [Day 14 — Evidence Working Copies, Hash Checks and Change Detection](labs/14-evidence-copy-and-hash-verification/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -79,6 +81,8 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 12 — Delil Manifesti, Bütünlük Kontrolü ve Denetim Sınırları](labs/12-evidence-manifest-and-verification/notes.tr.md)
 
 - [Gün 13 — Çıkarılabilir Aygıt İzleri ve Zaman Çizelgesi Korelasyonu](labs/13-synthetic-usb-artifacts-and-device-timeline/notes.tr.md)
+
+- [Gün 14 — Delil Çalışma Kopyaları, Hash Kontrolü ve Değişiklik Tespiti](labs/14-evidence-copy-and-hash-verification/notes.tr.md)
 
 ## Öğrenme yolu
 
