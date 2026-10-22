@@ -31,6 +31,8 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 
 - [Day 14 — Evidence Working Copies, Hash Checks and Change Detection](labs/14-evidence-copy-and-hash-verification/notes.md)
 
+- [Day 15 — Evidence Timelines, Time Zones and Correlation Confidence](labs/15-evidence-timeline-and-timezone-normalization/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -83,6 +85,8 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 13 — Çıkarılabilir Aygıt İzleri ve Zaman Çizelgesi Korelasyonu](labs/13-synthetic-usb-artifacts-and-device-timeline/notes.tr.md)
 
 - [Gün 14 — Delil Çalışma Kopyaları, Hash Kontrolü ve Değişiklik Tespiti](labs/14-evidence-copy-and-hash-verification/notes.tr.md)
+
+- [Gün 15 — Delil Zaman Çizelgeleri, Saat Dilimleri ve Korelasyon Güveni](labs/15-evidence-timeline-and-timezone-normalization/notes.tr.md)
 
 ## Öğrenme yolu
 
