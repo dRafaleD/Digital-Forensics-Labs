@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 16 — Timeline Deduplication and Source Integrity**
-- [English notes](labs/16-event-timeline-dedup-and-source-integrity/notes.md) · [Türkçe notlar](labs/16-event-timeline-dedup-and-source-integrity/notes.tr.md) · [Practical exercise](labs/16-event-timeline-dedup-and-source-integrity/timeline_demo.py)
+- **Day 17 — Log Gaps and Evidence Completeness**
+- [English notes](labs/17-log-gaps-and-evidence-completeness/notes.md) · [Türkçe notlar](labs/17-log-gaps-and-evidence-completeness/notes.tr.md) · [Practical exercise](labs/17-log-gaps-and-evidence-completeness/gap_demo.py)
