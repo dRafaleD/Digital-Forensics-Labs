@@ -111,3 +111,9 @@ Repo küçük, zararsız ve tekrar üretilebilir alıştırmalar kullanır. Ama�
 ## Güvenlik ve etik
 
 Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, image, sistem ve capture'lar üzerinde çalışın. Mümkün olduğunda orijinali koruyun ve deneyleri kopyalar üzerinde gerçekleştirin.
+
+
+## Latest lab
+
+- **Day 16 — Timeline Deduplication and Source Integrity**
+- [English notes](labs/16-event-timeline-dedup-and-source-integrity/notes.md) · [Türkçe notlar](labs/16-event-timeline-dedup-and-source-integrity/notes.tr.md) · [Practical exercise](labs/16-event-timeline-dedup-and-source-integrity/timeline_demo.py)
