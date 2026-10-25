@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 17 — Log Gaps and Evidence Completeness**
-- [English notes](labs/17-log-gaps-and-evidence-completeness/notes.md) · [Türkçe notlar](labs/17-log-gaps-and-evidence-completeness/notes.tr.md) · [Practical exercise](labs/17-log-gaps-and-evidence-completeness/gap_demo.py)
+- **Day 18 — Known Hash Sets and the Limits of Hash-Based Triage**
+- [English notes](labs/18-known-hash-sets-and-triage-limits/notes.md) · [Türkçe notlar](labs/18-known-hash-sets-and-triage-limits/notes.tr.md) · [Practical exercise](labs/18-known-hash-sets-and-triage-limits/hashset_demo.py)
