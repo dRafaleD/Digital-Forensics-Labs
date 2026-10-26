@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 18 — Known Hash Sets and the Limits of Hash-Based Triage**
-- [English notes](labs/18-known-hash-sets-and-triage-limits/notes.md) · [Türkçe notlar](labs/18-known-hash-sets-and-triage-limits/notes.tr.md) · [Practical exercise](labs/18-known-hash-sets-and-triage-limits/hashset_demo.py)
+- **Day 19 — Order of Volatility and Evidence Collection Priority**
+- [English notes](labs/19-order-of-volatility-and-collection-priority/notes.md) · [Türkçe notlar](labs/19-order-of-volatility-and-collection-priority/notes.tr.md) · [Practical exercise](labs/19-order-of-volatility-and-collection-priority/volatility_demo.py)
