@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 19 — Order of Volatility and Evidence Collection Priority**
-- [English notes](labs/19-order-of-volatility-and-collection-priority/notes.md) · [Türkçe notlar](labs/19-order-of-volatility-and-collection-priority/notes.tr.md) · [Practical exercise](labs/19-order-of-volatility-and-collection-priority/volatility_demo.py)
+- **Day 20 — Hash-Chained Chain-of-Custody Logs**
+- [English notes](labs/20-hash-chained-custody-log/notes.md) · [Türkçe notlar](labs/20-hash-chained-custody-log/notes.tr.md) · [Practical exercise](labs/20-hash-chained-custody-log/custody_demo.py)
