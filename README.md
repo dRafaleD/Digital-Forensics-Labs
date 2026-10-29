@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 20 — Hash-Chained Chain-of-Custody Logs**
-- [English notes](labs/20-hash-chained-custody-log/notes.md) · [Türkçe notlar](labs/20-hash-chained-custody-log/notes.tr.md) · [Practical exercise](labs/20-hash-chained-custody-log/custody_demo.py)
+- **Day 21 — Correlating Failed and Successful Logons**
+- [English notes](labs/21-failed-then-successful-logon-correlation/notes.md) · [Türkçe notlar](labs/21-failed-then-successful-logon-correlation/notes.tr.md) · [Practical exercise](labs/21-failed-then-successful-logon-correlation/logon_demo.py)
