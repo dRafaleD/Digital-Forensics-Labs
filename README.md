@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 27 — Download History and File Creation Correlation**
-- [English notes](labs/27-download-history-and-file-creation-correlation/notes.md) · [Türkçe notlar](labs/27-download-history-and-file-creation-correlation/notes.tr.md) · [Practical exercise](labs/27-download-history-and-file-creation-correlation/download_demo.py)
+- **Day 28 — Process Tree Sanity Checks**
+- [English notes](labs/28-process-tree-sanity-checks/notes.md) · [Türkçe notlar](labs/28-process-tree-sanity-checks/notes.tr.md) · [Practical exercise](labs/28-process-tree-sanity-checks/proctree_demo.py)
