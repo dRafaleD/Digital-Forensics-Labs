@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 23 — Program Execution Artifacts and Unusual Paths**
-- [English notes](labs/23-program-execution-artifacts-and-unusual-paths/notes.md) · [Türkçe notlar](labs/23-program-execution-artifacts-and-unusual-paths/notes.tr.md) · [Practical exercise](labs/23-program-execution-artifacts-and-unusual-paths/execution_demo.py)
+- **Day 24 — Email Header Hop Order and Timestamp Checks**
+- [English notes](labs/24-email-header-hop-order-and-timestamp-checks/notes.md) · [Türkçe notlar](labs/24-email-header-hop-order-and-timestamp-checks/notes.tr.md) · [Practical exercise](labs/24-email-header-hop-order-and-timestamp-checks/headers_demo.py)
