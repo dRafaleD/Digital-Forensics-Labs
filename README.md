@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 26 — Report Redaction with Stable Pseudonyms**
-- [English notes](labs/26-report-redaction-with-stable-pseudonyms/notes.md) · [Türkçe notlar](labs/26-report-redaction-with-stable-pseudonyms/notes.tr.md) · [Practical exercise](labs/26-report-redaction-with-stable-pseudonyms/redact_demo.py)
+- **Day 27 — Download History and File Creation Correlation**
+- [English notes](labs/27-download-history-and-file-creation-correlation/notes.md) · [Türkçe notlar](labs/27-download-history-and-file-creation-correlation/notes.tr.md) · [Practical exercise](labs/27-download-history-and-file-creation-correlation/download_demo.py)
