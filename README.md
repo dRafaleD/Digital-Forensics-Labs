@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 24 — Email Header Hop Order and Timestamp Checks**
-- [English notes](labs/24-email-header-hop-order-and-timestamp-checks/notes.md) · [Türkçe notlar](labs/24-email-header-hop-order-and-timestamp-checks/notes.tr.md) · [Practical exercise](labs/24-email-header-hop-order-and-timestamp-checks/headers_demo.py)
+- **Day 25 — Windows Logon Types and Remote Logon Triage**
+- [English notes](labs/25-windows-logon-types-and-remote-logon-triage/notes.md) · [Türkçe notlar](labs/25-windows-logon-types-and-remote-logon-triage/notes.tr.md) · [Practical exercise](labs/25-windows-logon-types-and-remote-logon-triage/logon_types_demo.py)
