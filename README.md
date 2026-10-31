@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 25 — Windows Logon Types and Remote Logon Triage**
-- [English notes](labs/25-windows-logon-types-and-remote-logon-triage/notes.md) · [Türkçe notlar](labs/25-windows-logon-types-and-remote-logon-triage/notes.tr.md) · [Practical exercise](labs/25-windows-logon-types-and-remote-logon-triage/logon_types_demo.py)
+- **Day 26 — Report Redaction with Stable Pseudonyms**
+- [English notes](labs/26-report-redaction-with-stable-pseudonyms/notes.md) · [Türkçe notlar](labs/26-report-redaction-with-stable-pseudonyms/notes.tr.md) · [Practical exercise](labs/26-report-redaction-with-stable-pseudonyms/redact_demo.py)
