@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 22 — Timestamp Anomalies and Stomping Indicators**
-- [English notes](labs/22-timestamp-anomalies-and-stomping-indicators/notes.md) · [Türkçe notlar](labs/22-timestamp-anomalies-and-stomping-indicators/notes.tr.md) · [Practical exercise](labs/22-timestamp-anomalies-and-stomping-indicators/stomp_demo.py)
+- **Day 23 — Program Execution Artifacts and Unusual Paths**
+- [English notes](labs/23-program-execution-artifacts-and-unusual-paths/notes.md) · [Türkçe notlar](labs/23-program-execution-artifacts-and-unusual-paths/notes.tr.md) · [Practical exercise](labs/23-program-execution-artifacts-and-unusual-paths/execution_demo.py)
