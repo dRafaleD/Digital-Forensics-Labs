@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 21 — Correlating Failed and Successful Logons**
-- [English notes](labs/21-failed-then-successful-logon-correlation/notes.md) · [Türkçe notlar](labs/21-failed-then-successful-logon-correlation/notes.tr.md) · [Practical exercise](labs/21-failed-then-successful-logon-correlation/logon_demo.py)
+- **Day 22 — Timestamp Anomalies and Stomping Indicators**
+- [English notes](labs/22-timestamp-anomalies-and-stomping-indicators/notes.md) · [Türkçe notlar](labs/22-timestamp-anomalies-and-stomping-indicators/notes.tr.md) · [Practical exercise](labs/22-timestamp-anomalies-and-stomping-indicators/stomp_demo.py)
