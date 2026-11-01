@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 28 — Process Tree Sanity Checks**
-- [English notes](labs/28-process-tree-sanity-checks/notes.md) · [Türkçe notlar](labs/28-process-tree-sanity-checks/notes.tr.md) · [Practical exercise](labs/28-process-tree-sanity-checks/proctree_demo.py)
+- **Day 29 — Signature-Based File Carving**
+- [English notes](labs/29-signature-based-file-carving/notes.md) · [Türkçe notlar](labs/29-signature-based-file-carving/notes.tr.md) · [Practical exercise](labs/29-signature-based-file-carving/carve_demo.py)
