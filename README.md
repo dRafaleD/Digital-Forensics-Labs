@@ -115,5 +115,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 29 — Signature-Based File Carving**
-- [English notes](labs/29-signature-based-file-carving/notes.md) · [Türkçe notlar](labs/29-signature-based-file-carving/notes.tr.md) · [Practical exercise](labs/29-signature-based-file-carving/carve_demo.py)
+- **Day 30 — Shell History Artifacts and Command Timeline**
+- [English notes](labs/30-shell-history-artifacts-and-command-timeline/notes.md) · [Türkçe notlar](labs/30-shell-history-artifacts-and-command-timeline/notes.tr.md) · [Practical exercise](labs/30-shell-history-artifacts-and-command-timeline/history_demo.py)
