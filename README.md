@@ -18,20 +18,29 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 6 — Incident Triage, Artifact Correlation and Evidence Integrity](labs/06-incident-triage-artifact-correlation-and-integrity/notes.md)
 - [Day 7 — Browser Artifacts, SQLite History and Timeline Reconstruction](labs/07-browser-artifacts-sqlite-and-timeline/notes.md)
 - [Day 8 — Chain of Custody, Evidence Manifests and Hash Verification](labs/08-chain-of-custody-and-evidence-manifests/notes.md)
-
 - [Day 9 — Linux Authentication Logs and Timeline Reconstruction](labs/09-linux-auth-logs-and-login-timeline/notes.md)
-
 - [Day 10 — Multi-Source Artifact Correlation and Confidence Reporting](labs/10-10-artifact-correlation-and-confidence-reporting/notes.md)
-
 - [Day 11 — File Metadata, MAC Times and Timeline Uncertainty](labs/11-file-metadata-mactime-and-timeline-uncertainty/notes.md)
-
 - [Day 12 — Evidence Manifests, Integrity Checking and Audit Limits](labs/12-evidence-manifest-and-verification/notes.md)
-
 - [Day 13 — Removable Device Artifacts and Timeline Correlation](labs/13-synthetic-usb-artifacts-and-device-timeline/notes.md)
-
 - [Day 14 — Evidence Working Copies, Hash Checks and Change Detection](labs/14-evidence-copy-and-hash-verification/notes.md)
-
 - [Day 15 — Evidence Timelines, Time Zones and Correlation Confidence](labs/15-evidence-timeline-and-timezone-normalization/notes.md)
+- [Day 16 — Event Timeline Dedup And Source Integrity](labs/16-event-timeline-dedup-and-source-integrity/notes.md)
+- [Day 17 — Log Gaps And Evidence Completeness](labs/17-log-gaps-and-evidence-completeness/notes.md)
+- [Bonus — Day 17 — Evidence Hashing And Chain Of Custody](labs/17-evidence-hashing-and-chain-of-custody/notes.md)
+- [Day 18 — Known Hash Sets And Triage Limits](labs/18-known-hash-sets-and-triage-limits/notes.md)
+- [Day 19 — Order Of Volatility And Collection Priority](labs/19-order-of-volatility-and-collection-priority/notes.md)
+- [Day 20 — Hash Chained Custody Log](labs/20-hash-chained-custody-log/notes.md)
+- [Day 21 — Failed Then Successful Logon Correlation](labs/21-failed-then-successful-logon-correlation/notes.md)
+- [Day 22 — Timestamp Anomalies And Stomping Indicators](labs/22-timestamp-anomalies-and-stomping-indicators/notes.md)
+- [Day 23 — Program Execution Artifacts And Unusual Paths](labs/23-program-execution-artifacts-and-unusual-paths/notes.md)
+- [Day 24 — Email Header Hop Order And Timestamp Checks](labs/24-email-header-hop-order-and-timestamp-checks/notes.md)
+- [Day 25 — Windows Logon Types And Remote Logon Triage](labs/25-windows-logon-types-and-remote-logon-triage/notes.md)
+- [Day 26 — Report Redaction With Stable Pseudonyms](labs/26-report-redaction-with-stable-pseudonyms/notes.md)
+- [Day 27 — Download History And File Creation Correlation](labs/27-download-history-and-file-creation-correlation/notes.md)
+- [Day 28 — Process Tree Sanity Checks](labs/28-process-tree-sanity-checks/notes.md)
+- [Day 29 — Signature Based File Carving](labs/29-signature-based-file-carving/notes.md)
+- [Day 30 — Shell History Artifacts And Command Timeline](labs/30-shell-history-artifacts-and-command-timeline/notes.md)
 
 ## Learning path
 
@@ -73,20 +82,29 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 6 — Incident Triage, Artifact Correlation ve Delil Bütünlüğü](labs/06-incident-triage-artifact-correlation-and-integrity/notes.tr.md)
 - [Gün 7 — Tarayıcı İzleri, SQLite Geçmişi ve Zaman Çizelgesi](labs/07-browser-artifacts-sqlite-and-timeline/notes.tr.md)
 - [Gün 8 — Muhafaza Zinciri, Delil Manifestleri ve Hash Doğrulama](labs/08-chain-of-custody-and-evidence-manifests/notes.tr.md)
-
 - [Gün 9 — Linux Kimlik Doğrulama Kayıtları ve Zaman Çizelgesi](labs/09-linux-auth-logs-and-login-timeline/notes.tr.md)
-
 - [Gün 10 — Çok Kaynaklı İz Korelasyonu ve Güven Düzeyi Raporlama](labs/10-10-artifact-correlation-and-confidence-reporting/notes.tr.md)
-
 - [Gün 11 — Dosya Metadata, MAC Zamanları ve Zaman Çizelgesi Belirsizliği](labs/11-file-metadata-mactime-and-timeline-uncertainty/notes.tr.md)
-
 - [Gün 12 — Delil Manifesti, Bütünlük Kontrolü ve Denetim Sınırları](labs/12-evidence-manifest-and-verification/notes.tr.md)
-
 - [Gün 13 — Çıkarılabilir Aygıt İzleri ve Zaman Çizelgesi Korelasyonu](labs/13-synthetic-usb-artifacts-and-device-timeline/notes.tr.md)
-
 - [Gün 14 — Delil Çalışma Kopyaları, Hash Kontrolü ve Değişiklik Tespiti](labs/14-evidence-copy-and-hash-verification/notes.tr.md)
-
 - [Gün 15 — Delil Zaman Çizelgeleri, Saat Dilimleri ve Korelasyon Güveni](labs/15-evidence-timeline-and-timezone-normalization/notes.tr.md)
+- [Gün 16 — Event Timeline Dedup And Source Integrity](labs/16-event-timeline-dedup-and-source-integrity/notes.tr.md)
+- [Gün 17 — Log Gaps And Evidence Completeness](labs/17-log-gaps-and-evidence-completeness/notes.tr.md)
+- [Ek çalışma — Gün 17 — Evidence Hashing And Chain Of Custody](labs/17-evidence-hashing-and-chain-of-custody/notes.tr.md)
+- [Gün 18 — Known Hash Sets And Triage Limits](labs/18-known-hash-sets-and-triage-limits/notes.tr.md)
+- [Gün 19 — Order Of Volatility And Collection Priority](labs/19-order-of-volatility-and-collection-priority/notes.tr.md)
+- [Gün 20 — Hash Chained Custody Log](labs/20-hash-chained-custody-log/notes.tr.md)
+- [Gün 21 — Failed Then Successful Logon Correlation](labs/21-failed-then-successful-logon-correlation/notes.tr.md)
+- [Gün 22 — Timestamp Anomalies And Stomping Indicators](labs/22-timestamp-anomalies-and-stomping-indicators/notes.tr.md)
+- [Gün 23 — Program Execution Artifacts And Unusual Paths](labs/23-program-execution-artifacts-and-unusual-paths/notes.tr.md)
+- [Gün 24 — Email Header Hop Order And Timestamp Checks](labs/24-email-header-hop-order-and-timestamp-checks/notes.tr.md)
+- [Gün 25 — Windows Logon Types And Remote Logon Triage](labs/25-windows-logon-types-and-remote-logon-triage/notes.tr.md)
+- [Gün 26 — Report Redaction With Stable Pseudonyms](labs/26-report-redaction-with-stable-pseudonyms/notes.tr.md)
+- [Gün 27 — Download History And File Creation Correlation](labs/27-download-history-and-file-creation-correlation/notes.tr.md)
+- [Gün 28 — Process Tree Sanity Checks](labs/28-process-tree-sanity-checks/notes.tr.md)
+- [Gün 29 — Signature Based File Carving](labs/29-signature-based-file-carving/notes.tr.md)
+- [Gün 30 — Shell History Artifacts And Command Timeline](labs/30-shell-history-artifacts-and-command-timeline/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -118,6 +136,3 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 - **Day 30 — Shell History Artifacts and Command Timeline**
 - [English notes](labs/30-shell-history-artifacts-and-command-timeline/notes.md) · [Türkçe notlar](labs/30-shell-history-artifacts-and-command-timeline/notes.tr.md) · [Practical exercise](labs/30-shell-history-artifacts-and-command-timeline/history_demo.py)
 
-### Day 17 — Evidence Hashing and Chain of Custody
-
-[English notes](labs/17-evidence-hashing-and-chain-of-custody/notes.md) · [Türkçe notlar](labs/17-evidence-hashing-and-chain-of-custody/notes.tr.md) · [Python demo](labs/17-evidence-hashing-and-chain-of-custody/evidence_manifest_demo.py)
