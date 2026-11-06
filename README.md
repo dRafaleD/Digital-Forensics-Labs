@@ -117,3 +117,7 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 - **Day 30 — Shell History Artifacts and Command Timeline**
 - [English notes](labs/30-shell-history-artifacts-and-command-timeline/notes.md) · [Türkçe notlar](labs/30-shell-history-artifacts-and-command-timeline/notes.tr.md) · [Practical exercise](labs/30-shell-history-artifacts-and-command-timeline/history_demo.py)
+
+### Day 17 — Evidence Hashing and Chain of Custody
+
+[English notes](labs/17-evidence-hashing-and-chain-of-custody/notes.md) · [Türkçe notlar](labs/17-evidence-hashing-and-chain-of-custody/notes.tr.md) · [Python demo](labs/17-evidence-hashing-and-chain-of-custody/evidence_manifest_demo.py)
