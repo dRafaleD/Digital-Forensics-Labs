@@ -42,6 +42,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 29 — Signature Based File Carving](labs/29-signature-based-file-carving/notes.md)
 - [Day 30 — Shell History Artifacts And Command Timeline](labs/30-shell-history-artifacts-and-command-timeline/notes.md)
 - [Day 31 — Clock Skew and Timeline Uncertainty](labs/31-evidence-clock-skew-and-timeline-uncertainty/notes.md)
+- [Day 32 — Conflicting Artifacts and Source Provenance](labs/32-conflicting-artifacts-and-source-provenance/notes.md)
 
 ## Learning path
 
@@ -107,6 +108,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 29 — Signature Based File Carving](labs/29-signature-based-file-carving/notes.tr.md)
 - [Gün 30 — Shell History Artifacts And Command Timeline](labs/30-shell-history-artifacts-and-command-timeline/notes.tr.md)
 - [Gün 31 — Saat Kayması ve Zaman Çizelgesi Belirsizliği](labs/31-evidence-clock-skew-and-timeline-uncertainty/notes.tr.md)
+- [Gün 32 — Çelişkili Adli İzler ve Kaynak Kökeni](labs/32-conflicting-artifacts-and-source-provenance/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -135,5 +137,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 31 — Clock Skew and Timeline Uncertainty**
-- [English notes](labs/31-evidence-clock-skew-and-timeline-uncertainty/notes.md) · [Türkçe notlar](labs/31-evidence-clock-skew-and-timeline-uncertainty/notes.tr.md) · [Practical exercise](labs/31-evidence-clock-skew-and-timeline-uncertainty/clock_skew_demo.py)
+- **Day 32 — Conflicting Artifacts and Source Provenance**
+- [English notes](labs/32-conflicting-artifacts-and-source-provenance/notes.md) · [Türkçe notlar](labs/32-conflicting-artifacts-and-source-provenance/notes.tr.md) · [Practical exercise](labs/32-conflicting-artifacts-and-source-provenance/conflicts_demo.py)
