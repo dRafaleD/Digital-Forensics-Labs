@@ -44,6 +44,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 31 — Clock Skew and Timeline Uncertainty](labs/31-evidence-clock-skew-and-timeline-uncertainty/notes.md)
 - [Day 32 — Conflicting Artifacts and Source Provenance](labs/32-conflicting-artifacts-and-source-provenance/notes.md)
 - [Day 33 — NTFS USN Journal Change Evidence](labs/33-ntfs-usn-journal-change-evidence/notes.md)
+- [Day 34 — USN and Process Telemetry Correlation](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.md)
 
 ## Learning path
 
@@ -111,6 +112,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 31 — Saat Kayması ve Zaman Çizelgesi Belirsizliği](labs/31-evidence-clock-skew-and-timeline-uncertainty/notes.tr.md)
 - [Gün 32 — Çelişkili Adli İzler ve Kaynak Kökeni](labs/32-conflicting-artifacts-and-source-provenance/notes.tr.md)
 - [Gün 33 — NTFS USN Journal ve Dosya Değişikliği Kanıtları](labs/33-ntfs-usn-journal-change-evidence/notes.tr.md)
+- [Gün 34 — USN ve Süreç Loglarının İlişkilendirilmesi](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -139,5 +141,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 33 — NTFS USN Journal Change Evidence**
-- [English notes](labs/33-ntfs-usn-journal-change-evidence/notes.md) · [Türkçe notlar](labs/33-ntfs-usn-journal-change-evidence/notes.tr.md) · [Practical exercise](labs/33-ntfs-usn-journal-change-evidence/usn_timeline_demo.py)
+- **Day 34 — USN and Process-File Telemetry Correlation**
+- [English notes](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.md) · [Türkçe notlar](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.tr.md) · [Practical exercise](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/correlate_demo.py)
