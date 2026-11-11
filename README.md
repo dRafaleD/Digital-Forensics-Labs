@@ -45,6 +45,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 32 — Conflicting Artifacts and Source Provenance](labs/32-conflicting-artifacts-and-source-provenance/notes.md)
 - [Day 33 — NTFS USN Journal Change Evidence](labs/33-ntfs-usn-journal-change-evidence/notes.md)
 - [Day 34 — USN and Process Telemetry Correlation](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.md)
+- [Day 35 — Zone.Identifier and Download Correlation Limits](labs/35-zone-identifier-and-download-correlation-limits/notes.md)
 
 ## Learning path
 
@@ -113,6 +114,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 32 — Çelişkili Adli İzler ve Kaynak Kökeni](labs/32-conflicting-artifacts-and-source-provenance/notes.tr.md)
 - [Gün 33 — NTFS USN Journal ve Dosya Değişikliği Kanıtları](labs/33-ntfs-usn-journal-change-evidence/notes.tr.md)
 - [Gün 34 — USN ve Süreç Loglarının İlişkilendirilmesi](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.tr.md)
+- [Gün 35 — Zone.Identifier ve İndirme Geçmişi Korelasyonu](labs/35-zone-identifier-and-download-correlation-limits/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -141,5 +143,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 34 — USN and Process-File Telemetry Correlation**
-- [English notes](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.md) · [Türkçe notlar](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.tr.md) · [Practical exercise](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/correlate_demo.py)
+- **Day 35 — Zone.Identifier and Browser Download Correlation Limits**
+- [English notes](labs/35-zone-identifier-and-download-correlation-limits/notes.md) · [Türkçe notlar](labs/35-zone-identifier-and-download-correlation-limits/notes.tr.md) · [Practical exercise](labs/35-zone-identifier-and-download-correlation-limits/download_correlation_demo.py)
