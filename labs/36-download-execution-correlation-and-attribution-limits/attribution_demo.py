@@ -4,18 +4,18 @@ from datetime import datetime
 
 WINDOW = 5.0
 DOWNLOADS = [
-    {"id": "dl-a", "path": "C:/Lab/model-a.bin", "time": "2026-11-02T10:00:00+00:00"},
-    {"id": "dl-b1", "path": "C:/Lab/model-b.bin", "time": "2026-11-02T10:01:00+00:00"},
-    {"id": "dl-b2", "path": "C:/Lab/model-b.bin", "time": "2026-11-02T10:01:02+00:00"},
+    {"id": "dl-a", "path": "C:/Lab/tool-a.exe", "time": "2026-11-02T10:00:00+00:00"},
+    {"id": "dl-b1", "path": "C:/Lab/tool-b.exe", "time": "2026-11-02T10:01:00+00:00"},
+    {"id": "dl-b2", "path": "C:/Lab/tool-b.exe", "time": "2026-11-02T10:01:02+00:00"},
 ]
 ZONES = [
-    {"id": "zone-a", "path": "C:/Lab/model-a.bin", "time": "2026-11-02T10:00:01+00:00"},
-    {"id": "zone-b", "path": "C:/Lab/model-b.bin", "time": "2026-11-02T10:01:01+00:00"},
+    {"id": "zone-a", "path": "C:/Lab/tool-a.exe", "time": "2026-11-02T10:00:01+00:00"},
+    {"id": "zone-b", "path": "C:/Lab/tool-b.exe", "time": "2026-11-02T10:01:01+00:00"},
 ]
 EXECUTIONS = [
-    {"id": "proc-a", "path": "C:/Lab/model-a.bin", "time": "2026-11-02T10:00:03+00:00"},
-    {"id": "proc-b", "path": "C:/Lab/model-b.bin", "time": "2026-11-02T10:01:04+00:00"},
-    {"id": "proc-c", "path": "C:/Lab/orphan.bin", "time": "2026-11-02T11:00:00+00:00"},
+    {"id": "proc-a", "path": "C:/Lab/tool-a.exe", "time": "2026-11-02T10:00:03+00:00"},
+    {"id": "proc-b", "path": "C:/Lab/tool-b.exe", "time": "2026-11-02T10:01:04+00:00"},
+    {"id": "proc-c", "path": "C:/Lab/orphan.exe", "time": "2026-11-02T11:00:00+00:00"},
 ]
 def seconds(a, b):
     return (datetime.fromisoformat(a) - datetime.fromisoformat(b)).total_seconds()
