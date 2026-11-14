@@ -47,6 +47,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 34 — USN and Process Telemetry Correlation](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.md)
 - [Day 35 — Zone.Identifier and Download Correlation Limits](labs/35-zone-identifier-and-download-correlation-limits/notes.md)
 - [Day 36 — Download-to-Execution Correlation and Attribution Limits](labs/36-download-execution-correlation-and-attribution-limits/notes.md)
+- [Day 37 — File Identity, Rename Events and Timeline Provenance](labs/37-file-identity-renames-and-timeline-provenance/notes.md)
 
 ## Learning path
 
@@ -117,6 +118,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 34 — USN ve Süreç Loglarının İlişkilendirilmesi](labs/34-usn-process-telemetry-correlation-and-clock-uncertainty/notes.tr.md)
 - [Gün 35 — Zone.Identifier ve İndirme Geçmişi Korelasyonu](labs/35-zone-identifier-and-download-correlation-limits/notes.tr.md)
 - [Gün 36 — İndirme/Çalıştırma Korelasyonu ve Atıf Sınırları](labs/36-download-execution-correlation-and-attribution-limits/notes.tr.md)
+- [Gün 37 — Dosya Kimliği, Yeniden Adlandırma ve Zaman Çizelgesi](labs/37-file-identity-renames-and-timeline-provenance/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -145,5 +147,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 36 — Download-to-Execution Correlation and Attribution Limits**
-- [English notes](labs/36-download-execution-correlation-and-attribution-limits/notes.md) · [Türkçe notlar](labs/36-download-execution-correlation-and-attribution-limits/notes.tr.md) · [Practical exercise](labs/36-download-execution-correlation-and-attribution-limits/attribution_demo.py)
+- **Day 37 — File Identity, Rename Events and Timeline Provenance**
+- [English notes](labs/37-file-identity-renames-and-timeline-provenance/notes.md) · [Türkçe notlar](labs/37-file-identity-renames-and-timeline-provenance/notes.tr.md) · [Practice](labs/37-file-identity-renames-and-timeline-provenance/identity_timeline.py)
