@@ -48,6 +48,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 35 — Zone.Identifier and Download Correlation Limits](labs/35-zone-identifier-and-download-correlation-limits/notes.md)
 - [Day 36 — Download-to-Execution Correlation and Attribution Limits](labs/36-download-execution-correlation-and-attribution-limits/notes.md)
 - [Day 37 — File Identity, Rename Events and Timeline Provenance](labs/37-file-identity-renames-and-timeline-provenance/notes.md)
+- [Day 38 — Copy, Rename and Content-Hash Correlation](labs/38-copy-rename-and-content-hash-correlation/notes.md)
 
 ## Learning path
 
@@ -119,6 +120,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 35 — Zone.Identifier ve İndirme Geçmişi Korelasyonu](labs/35-zone-identifier-and-download-correlation-limits/notes.tr.md)
 - [Gün 36 — İndirme/Çalıştırma Korelasyonu ve Atıf Sınırları](labs/36-download-execution-correlation-and-attribution-limits/notes.tr.md)
 - [Gün 37 — Dosya Kimliği, Yeniden Adlandırma ve Zaman Çizelgesi](labs/37-file-identity-renames-and-timeline-provenance/notes.tr.md)
+- [Gün 38 — Kopyalama, Yeniden Adlandırma ve Hash Korelasyonu](labs/38-copy-rename-and-content-hash-correlation/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -147,5 +149,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 37 — File Identity, Rename Events and Timeline Provenance**
-- [English notes](labs/37-file-identity-renames-and-timeline-provenance/notes.md) · [Türkçe notlar](labs/37-file-identity-renames-and-timeline-provenance/notes.tr.md) · [Practice](labs/37-file-identity-renames-and-timeline-provenance/identity_timeline.py)
+- **Day 38 — Copy, Rename and Content-Hash Correlation**
+- [English notes](labs/38-copy-rename-and-content-hash-correlation/notes.md) · [Türkçe notlar](labs/38-copy-rename-and-content-hash-correlation/notes.tr.md) · [Python exercise](labs/38-copy-rename-and-content-hash-correlation/identity_hash_demo.py)
