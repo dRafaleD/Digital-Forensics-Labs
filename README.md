@@ -50,6 +50,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 37 — File Identity, Rename Events and Timeline Provenance](labs/37-file-identity-renames-and-timeline-provenance/notes.md)
 - [Day 38 — Copy, Rename and Content-Hash Correlation](labs/38-copy-rename-and-content-hash-correlation/notes.md)
 - [Day 39 — Timestamp Intervals and File-Evidence Ambiguity](labs/39-timestamp-intervals-and-file-evidence-ambiguity/notes.md)
+- [Day 40 — Timeline Provenance and Independent Corroboration](labs/40-timeline-provenance-and-independent-corroboration/notes.md)
 
 ## Learning path
 
@@ -123,6 +124,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 37 — Dosya Kimliği, Yeniden Adlandırma ve Zaman Çizelgesi](labs/37-file-identity-renames-and-timeline-provenance/notes.tr.md)
 - [Gün 38 — Kopyalama, Yeniden Adlandırma ve Hash Korelasyonu](labs/38-copy-rename-and-content-hash-correlation/notes.tr.md)
 - [Gün 39 — Zaman Aralıkları ve Dosya Kanıtı Belirsizliği](labs/39-timestamp-intervals-and-file-evidence-ambiguity/notes.tr.md)
+- [Gün 40 — Zaman Çizelgesinde Kanıt Kökeni ve Doğrulama](labs/40-timeline-provenance-and-independent-corroboration/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -151,5 +153,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 39 — Timestamp Intervals and File-Evidence Ambiguity**
-- [English notes](labs/39-timestamp-intervals-and-file-evidence-ambiguity/notes.md) · [Türkçe notlar](labs/39-timestamp-intervals-and-file-evidence-ambiguity/notes.tr.md) · [Python exercise](labs/39-timestamp-intervals-and-file-evidence-ambiguity/uncertain_timeline.py)
+- **Day 40 — Timeline Provenance and Independent Corroboration**
+- [English notes](labs/40-timeline-provenance-and-independent-corroboration/notes.md) · [Türkçe notlar](labs/40-timeline-provenance-and-independent-corroboration/notes.tr.md) · [Python exercise](labs/40-timeline-provenance-and-independent-corroboration/corroboration_demo.py)
