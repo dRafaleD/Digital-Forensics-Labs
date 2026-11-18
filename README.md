@@ -51,6 +51,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 38 — Copy, Rename and Content-Hash Correlation](labs/38-copy-rename-and-content-hash-correlation/notes.md)
 - [Day 39 — Timestamp Intervals and File-Evidence Ambiguity](labs/39-timestamp-intervals-and-file-evidence-ambiguity/notes.md)
 - [Day 40 — Timeline Provenance and Independent Corroboration](labs/40-timeline-provenance-and-independent-corroboration/notes.md)
+- [Day 41 — Execution Initiator Hypotheses and Abstention](labs/41-execution-initiator-hypotheses-and-abstention/notes.md)
 
 ## Learning path
 
@@ -125,6 +126,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 38 — Kopyalama, Yeniden Adlandırma ve Hash Korelasyonu](labs/38-copy-rename-and-content-hash-correlation/notes.tr.md)
 - [Gün 39 — Zaman Aralıkları ve Dosya Kanıtı Belirsizliği](labs/39-timestamp-intervals-and-file-evidence-ambiguity/notes.tr.md)
 - [Gün 40 — Zaman Çizelgesinde Kanıt Kökeni ve Doğrulama](labs/40-timeline-provenance-and-independent-corroboration/notes.tr.md)
+- [Gün 41 — Başlatıcı Hipotezleri ve Kararsız Kalabilme](labs/41-execution-initiator-hypotheses-and-abstention/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -153,5 +155,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 40 — Timeline Provenance and Independent Corroboration**
-- [English notes](labs/40-timeline-provenance-and-independent-corroboration/notes.md) · [Türkçe notlar](labs/40-timeline-provenance-and-independent-corroboration/notes.tr.md) · [Python exercise](labs/40-timeline-provenance-and-independent-corroboration/corroboration_demo.py)
+- **Day 41 — Execution Initiator Hypotheses and Abstention**
+- [English notes](labs/41-execution-initiator-hypotheses-and-abstention/notes.md) · [Türkçe notlar](labs/41-execution-initiator-hypotheses-and-abstention/notes.tr.md) · [Python exercise](labs/41-execution-initiator-hypotheses-and-abstention/initiator_demo.py)
