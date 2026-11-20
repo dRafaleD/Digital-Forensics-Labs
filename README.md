@@ -53,6 +53,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 40 — Timeline Provenance and Independent Corroboration](labs/40-timeline-provenance-and-independent-corroboration/notes.md)
 - [Day 41 — Execution Initiator Hypotheses and Abstention](labs/41-execution-initiator-hypotheses-and-abstention/notes.md)
 - [Day 42 — Process Instance IDs and Parent PID Reuse](labs/42-process-instance-ids-and-parent-pid-reuse/notes.md)
+- [Day 43 — Process GUID Correlation and Conflicting Parent Evidence](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.md)
 
 ## Learning path
 
@@ -129,6 +130,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 40 — Zaman Çizelgesinde Kanıt Kökeni ve Doğrulama](labs/40-timeline-provenance-and-independent-corroboration/notes.tr.md)
 - [Gün 41 — Başlatıcı Hipotezleri ve Kararsız Kalabilme](labs/41-execution-initiator-hypotheses-and-abstention/notes.tr.md)
 - [Gün 42 — PID Yeniden Kullanımı ve Parent Süreç Eşleştirme](labs/42-process-instance-ids-and-parent-pid-reuse/notes.tr.md)
+- [Gün 43 — Process GUID ve Parent Süreç Kanıt Çelişkileri](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -157,5 +159,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 42 — Process Instance IDs and Parent PID Reuse**
-- [English notes](labs/42-process-instance-ids-and-parent-pid-reuse/notes.md) · [Türkçe notlar](labs/42-process-instance-ids-and-parent-pid-reuse/notes.tr.md) · [Python exercise](labs/42-process-instance-ids-and-parent-pid-reuse/parent_pid_demo.py)
+- **Day 43 — Process GUID Correlation and Conflicting Parent Evidence**
+- [English notes](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.md) · [Türkçe notlar](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.tr.md) · [Python exercise](labs/43-process-guid-correlation-and-parent-evidence-conflicts/process_guid_demo.py)
