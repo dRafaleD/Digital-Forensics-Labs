@@ -54,6 +54,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 41 — Execution Initiator Hypotheses and Abstention](labs/41-execution-initiator-hypotheses-and-abstention/notes.md)
 - [Day 42 — Process Instance IDs and Parent PID Reuse](labs/42-process-instance-ids-and-parent-pid-reuse/notes.md)
 - [Day 43 — Process GUID Correlation and Conflicting Parent Evidence](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.md)
+- [Day 44 — Process Lineage Graphs, Cycles and Missing Ancestors](labs/44-process-lineage-graph-cycles-and-missing-ancestors/notes.md)
 
 ## Learning path
 
@@ -131,6 +132,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 41 — Başlatıcı Hipotezleri ve Kararsız Kalabilme](labs/41-execution-initiator-hypotheses-and-abstention/notes.tr.md)
 - [Gün 42 — PID Yeniden Kullanımı ve Parent Süreç Eşleştirme](labs/42-process-instance-ids-and-parent-pid-reuse/notes.tr.md)
 - [Gün 43 — Process GUID ve Parent Süreç Kanıt Çelişkileri](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.tr.md)
+- [Gün 44 — Süreç Soy Ağacı, Döngüler ve Eksik Parent](labs/44-process-lineage-graph-cycles-and-missing-ancestors/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -159,5 +161,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 43 — Process GUID Correlation and Conflicting Parent Evidence**
-- [English notes](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.md) · [Türkçe notlar](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.tr.md) · [Python exercise](labs/43-process-guid-correlation-and-parent-evidence-conflicts/process_guid_demo.py)
+- **Day 44 — Process Lineage Graphs, Cycles and Missing Ancestors**
+- [English notes](labs/44-process-lineage-graph-cycles-and-missing-ancestors/notes.md) · [Türkçe notlar](labs/44-process-lineage-graph-cycles-and-missing-ancestors/notes.tr.md) · [Python exercise](labs/44-process-lineage-graph-cycles-and-missing-ancestors/lineage_graph.py)
