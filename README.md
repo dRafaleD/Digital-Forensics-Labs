@@ -56,6 +56,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 43 — Process GUID Correlation and Conflicting Parent Evidence](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.md)
 - [Day 44 — Process Lineage Graphs, Cycles and Missing Ancestors](labs/44-process-lineage-graph-cycles-and-missing-ancestors/notes.md)
 - [Day 45 — Process-Lineage Provenance and Independent Sources](labs/45-process-lineage-provenance-and-independent-sources/notes.md)
+- [Day 46 — Process-Lineage Coverage and Absence of Evidence](labs/46-process-lineage-coverage-and-absence-of-evidence/notes.md)
 
 ## Learning path
 
@@ -135,6 +136,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 43 — Process GUID ve Parent Süreç Kanıt Çelişkileri](labs/43-process-guid-correlation-and-parent-evidence-conflicts/notes.tr.md)
 - [Gün 44 — Süreç Soy Ağacı, Döngüler ve Eksik Parent](labs/44-process-lineage-graph-cycles-and-missing-ancestors/notes.tr.md)
 - [Gün 45 — Süreç Kanıtının Kaynağı ve Bağımsızlığı](labs/45-process-lineage-provenance-and-independent-sources/notes.tr.md)
+- [Gün 46 — Süreç Kanıtında Kapsama ve Kanıt Yokluğu](labs/46-process-lineage-coverage-and-absence-of-evidence/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -163,5 +165,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 45 — Process-Lineage Provenance and Independent Sources**
-- [English notes](labs/45-process-lineage-provenance-and-independent-sources/notes.md) · [Türkçe notlar](labs/45-process-lineage-provenance-and-independent-sources/notes.tr.md) · [Python exercise](labs/45-process-lineage-provenance-and-independent-sources/lineage_provenance_demo.py)
+- **Day 46 — Process-Lineage Coverage and Absence of Evidence**
+- [English notes](labs/46-process-lineage-coverage-and-absence-of-evidence/notes.md) · [Türkçe notlar](labs/46-process-lineage-coverage-and-absence-of-evidence/notes.tr.md) · [Python exercise](labs/46-process-lineage-coverage-and-absence-of-evidence/coverage_demo.py)
