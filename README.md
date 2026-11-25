@@ -58,6 +58,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 45 — Process-Lineage Provenance and Independent Sources](labs/45-process-lineage-provenance-and-independent-sources/notes.md)
 - [Day 46 — Process-Lineage Coverage and Absence of Evidence](labs/46-process-lineage-coverage-and-absence-of-evidence/notes.md)
 - [Day 47 — Coverage Intervals and Process Evidence Boundaries](labs/47-coverage-intervals-and-process-evidence-boundaries/notes.md)
+- [Day 48 — Practice Day: Timeline Reconstruction and Clock Uncertainty](labs/48-forensic-timeline-practice-and-clock-uncertainty/notes.md)
 
 ## Learning path
 
@@ -139,6 +140,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 45 — Süreç Kanıtının Kaynağı ve Bağımsızlığı](labs/45-process-lineage-provenance-and-independent-sources/notes.tr.md)
 - [Gün 46 — Süreç Kanıtında Kapsama ve Kanıt Yokluğu](labs/46-process-lineage-coverage-and-absence-of-evidence/notes.tr.md)
 - [Gün 47 — Kapsama Aralıkları ve Süreç Kanıtı Sınırları](labs/47-coverage-intervals-and-process-evidence-boundaries/notes.tr.md)
+- [Gün 48 — Uygulama Günü: Adli Zaman Çizelgesi ve Saat Belirsizliği](labs/48-forensic-timeline-practice-and-clock-uncertainty/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -167,5 +169,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 47 — Coverage Intervals and Process Evidence Boundaries**
-- [English notes](labs/47-coverage-intervals-and-process-evidence-boundaries/notes.md) · [Türkçe notlar](labs/47-coverage-intervals-and-process-evidence-boundaries/notes.tr.md) · [Exercise](labs/47-coverage-intervals-and-process-evidence-boundaries/coverage_intervals.py)
+- **Day 48 — Practice Day: Timeline Reconstruction and Clock Uncertainty**
+- [English notes](labs/48-forensic-timeline-practice-and-clock-uncertainty/notes.md) · [Türkçe notlar](labs/48-forensic-timeline-practice-and-clock-uncertainty/notes.tr.md) · [Exercise](labs/48-forensic-timeline-practice-and-clock-uncertainty/timeline.py)
