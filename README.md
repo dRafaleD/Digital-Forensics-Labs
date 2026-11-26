@@ -60,6 +60,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 47 — Coverage Intervals and Process Evidence Boundaries](labs/47-coverage-intervals-and-process-evidence-boundaries/notes.md)
 - [Day 48 — Practice Day: Timeline Reconstruction and Clock Uncertainty](labs/48-forensic-timeline-practice-and-clock-uncertainty/notes.md)
 - [Day 49 — Timeline Partial Order and Evidence Graphs](labs/49-timeline-partial-order-and-evidence-graphs/notes.md)
+- [Day 50 — Evidence Graph Topological Layers and Ambiguous Order](labs/50-evidence-graph-topological-layers/notes.md)
 
 ## Learning path
 
@@ -143,6 +144,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 47 — Kapsama Aralıkları ve Süreç Kanıtı Sınırları](labs/47-coverage-intervals-and-process-evidence-boundaries/notes.tr.md)
 - [Gün 48 — Uygulama Günü: Adli Zaman Çizelgesi ve Saat Belirsizliği](labs/48-forensic-timeline-practice-and-clock-uncertainty/notes.tr.md)
 - [Gün 49 — Zaman Çizelgesi Kısmi Sıralama ve Kanıt Grafiği](labs/49-timeline-partial-order-and-evidence-graphs/notes.tr.md)
+- [Gün 50 — Delil Grafiğinde Topolojik Katmanlar ve Belirsiz Sıra](labs/50-evidence-graph-topological-layers/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -171,5 +173,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 49 — Timeline Partial Order and Evidence Graphs**
-- [English notes](labs/49-timeline-partial-order-and-evidence-graphs/notes.md) · [Türkçe notlar](labs/49-timeline-partial-order-and-evidence-graphs/notes.tr.md) · [Exercise](labs/49-timeline-partial-order-and-evidence-graphs/partial_order.py)
+- **Day 50 — Evidence Graph Topological Layers and Ambiguous Order**
+- [English notes](labs/50-evidence-graph-topological-layers/notes.md) · [Türkçe notlar](labs/50-evidence-graph-topological-layers/notes.tr.md) · [Exercise](labs/50-evidence-graph-topological-layers/graph_layers.py)
