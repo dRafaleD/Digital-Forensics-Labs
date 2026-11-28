@@ -62,6 +62,7 @@ The goal is to learn how digital evidence should be preserved, verified, examine
 - [Day 49 — Timeline Partial Order and Evidence Graphs](labs/49-timeline-partial-order-and-evidence-graphs/notes.md)
 - [Day 50 — Evidence Graph Topological Layers and Ambiguous Order](labs/50-evidence-graph-topological-layers/notes.md)
 - [Day 51 — Evidence Graph Reachability and Incomparability](labs/51-evidence-graph-reachability-and-incomparability/notes.md)
+- [Day 52 — Evidence Edge Provenance and Conflict Reports](labs/52-evidence-edge-provenance-and-conflict-reports/notes.md)
 
 ## Learning path
 
@@ -147,6 +148,7 @@ Amaç; disk, dosya sistemi, bellek, ağ ve artifact analizine geçmeden önce di
 - [Gün 49 — Zaman Çizelgesi Kısmi Sıralama ve Kanıt Grafiği](labs/49-timeline-partial-order-and-evidence-graphs/notes.tr.md)
 - [Gün 50 — Delil Grafiğinde Topolojik Katmanlar ve Belirsiz Sıra](labs/50-evidence-graph-topological-layers/notes.tr.md)
 - [Gün 51 — Delil Grafiğinde Erişilebilirlik ve Karşılaştırılamayan Olaylar](labs/51-evidence-graph-reachability-and-incomparability/notes.tr.md)
+- [Gün 52 — Delil Grafiği Kenar Kaynakları ve Çelişki Raporları](labs/52-evidence-edge-provenance-and-conflict-reports/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -175,5 +177,5 @@ Yalnızca size ait olan veya incelemek için açık izin aldığınız dosya, im
 
 ## Latest lab
 
-- **Day 51 — Evidence Graph Reachability and Incomparability**
-- [English notes](labs/51-evidence-graph-reachability-and-incomparability/notes.md) · [Türkçe notlar](labs/51-evidence-graph-reachability-and-incomparability/notes.tr.md) · [Exercise](labs/51-evidence-graph-reachability-and-incomparability/relations.py)
+- **Day 52 — Evidence Edge Provenance and Conflict Reports**
+- [English notes](labs/52-evidence-edge-provenance-and-conflict-reports/notes.md) · [Türkçe notlar](labs/52-evidence-edge-provenance-and-conflict-reports/notes.tr.md) · [Exercise](labs/52-evidence-edge-provenance-and-conflict-reports/edge_review.py)
